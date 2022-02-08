@@ -1,5 +1,5 @@
-export type Course = {
-  id: string
+export type Lesson = {
+  id?: string
   title: string
   lecture: Lecture[]
 }
