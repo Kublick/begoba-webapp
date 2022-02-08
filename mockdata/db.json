@@ -1,0 +1,126 @@
+{
+  "users": [
+    { "id": 1, "name": { "first": "Leroy", "last": "Walton" } },
+    { "id": 2, "name": { "first": "Shane", "last": "Garrett" } },
+    { "id": 3, "name": { "first": "Sheryl", "last": "Robinson" } },
+    { "id": 4, "name": { "first": "Fred", "last": "Bush" } },
+    { "id": 5, "name": { "first": "Julie", "last": "Dawson" } },
+    { "id": 6, "name": { "first": "Ervin", "last": "Vega" } },
+    { "id": 7, "name": { "first": "Emanuel", "last": "Watson" } },
+    { "id": 8, "name": { "first": "Fred", "last": "Sharp" } },
+    { "id": 9, "name": { "first": "Virginia", "last": "Hall" } },
+    { "id": 10, "name": { "first": "Carrie", "last": "Sanchez" } }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduccion",
+      "lecture": [
+        {
+          "id": 2,
+          "title": "Introduccion al Curso",
+          "duration": 180,
+          "completed": false,
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "id": 3,
+          "title": "Como funciona el curso",
+          "duration": 240,
+          "completed": false,
+          "url": "https://youtu.be/7_23uYADjME"
+        },
+        {
+          "id": 4,
+          "title": "Instalaciones necesarias",
+          "duration": 420,
+          "completed": false
+        },
+        {
+          "id": 5,
+          "title": "Instalar nodemon",
+          "duration": 120,
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Configurar Git y Github",
+          "duration": 120,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Introduccion a los Websockets y a Socket Io",
+      "lecture": [
+        {
+          "id": 8,
+          "title": "Introduccion a la seccion",
+          "duration": 140,
+          "completed": true
+        },
+        {
+          "id": 9,
+          "title": "Temas Puntuales",
+          "duration": 120,
+          "completed": false
+        },
+        {
+          "id": 10,
+          "title": "Introduccion a los conceptos generales",
+          "duration": 120,
+          "completed": false
+        },
+        {
+          "id": 11,
+          "title": "Mi Primer Socket Server",
+          "duration": 120,
+          "completed": false
+        },
+        {
+          "id": 12,
+          "title": "Front End Mini-Chat",
+          "duration": 120,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "BandNames App",
+      "lecture": [
+        {
+          "id": 14,
+          "title": "Introduccion al Curso",
+          "duration": 180,
+          "completed": false
+        },
+        {
+          "id": 15,
+          "title": "Como funciona el curso",
+          "duration": 240,
+          "completed": false
+        },
+        {
+          "id": 16,
+          "title": "Instalaciones necesarias",
+          "duration": 420,
+          "completed": false
+        },
+        {
+          "id": 17,
+          "title": "Instalar nodemon",
+          "duration": 120,
+          "completed": false
+        },
+        {
+          "id": 18,
+          "title": "Configurar Git y Github",
+          "duration": 120,
+          "completed": false
+        }
+      ]
+    }
+  ]
+}

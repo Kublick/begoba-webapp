@@ -1,0 +1,4206 @@
+{
+  "count": 182,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 5399990,
+      "sort_order": 181,
+      "title": "Introduction",
+      "is_published": true,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 22600504,
+      "title": "Introducción al curso",
+      "created": "2020-10-05T18:35:53Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 29182906,
+        "asset_type": "Video",
+        "title": "rostro_copy_1.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-1.mp4",
+        "time_estimation": 191
+      },
+      "sort_order": 180,
+      "object_index": 1,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23237914,
+      "title": "¿Cómo funcionará el curso?",
+      "created": "2020-11-10T20:07:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29164208,
+        "asset_type": "Video",
+        "title": "1-01-Como_funcionara_el_curso.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "1-01-Como-funcionara-el-curso.mp4",
+        "time_estimation": 212
+      },
+      "sort_order": 179,
+      "object_index": 2,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23232620,
+      "title": "Instalaciones necesarias",
+      "created": "2020-11-10T14:45:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29164204,
+        "asset_type": "Video",
+        "title": "1-02-Instalaciones_necesarias.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "1-02-Instalaciones-necesarias.mp4",
+        "time_estimation": 391
+      },
+      "sort_order": 178,
+      "object_index": 3,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29157510,
+          "status": 1,
+          "is_external": true,
+          "title": "Instalaciones recomendadas - Markdown",
+          "time_estimation": 0,
+          "filename": "Instalaciones-recomendadas-Markdown",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22603040,
+      "title": "Instalar nodemon",
+      "created": "2020-10-05T21:06:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29164210,
+        "asset_type": "Video",
+        "title": "1-03-Instalar_nodemon.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "1-03-Instalar-nodemon.mp4",
+        "time_estimation": 132
+      },
+      "sort_order": 177,
+      "object_index": 4,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619272,
+      "title": "Configurar Git y Github",
+      "created": "2020-10-06T20:58:46Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29164206,
+        "asset_type": "Video",
+        "title": "1-04-Configurar_Git_y_Github.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "1-04-Configurar-Git-y-Github.mp4",
+        "time_estimation": 118
+      },
+      "sort_order": 176,
+      "object_index": 5,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29163850,
+          "status": 1,
+          "is_external": true,
+          "title": "Configuración de Git",
+          "time_estimation": 0,
+          "filename": "Configuraci-n-de-Git",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5399992,
+      "sort_order": 175,
+      "title": "Introducción a los WebSockets y a Socket.io",
+      "is_published": true,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 22600514,
+      "title": "Introducción a la sección",
+      "created": "2020-10-05T18:37:06Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182918,
+        "asset_type": "Video",
+        "title": "rostro_copy_2.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-2.mp4",
+        "time_estimation": 117
+      },
+      "sort_order": 174,
+      "object_index": 6,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22600518,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-05T18:37:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155430,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 10
+      },
+      "sort_order": 173,
+      "object_index": 7,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22601036,
+      "title": "Introducción a los conceptos generales",
+      "created": "2020-10-05T19:11:28Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 28863954,
+        "asset_type": "Video",
+        "title": "2-01-Introduccion_a_los_conceptos_generales.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-01-Introduccion-a-los-conceptos-generales.mp4",
+        "time_estimation": 544
+      },
+      "sort_order": 172,
+      "object_index": 8,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28312952,
+          "status": 1,
+          "is_external": true,
+          "title": "MozillaMDN: WebSockets",
+          "time_estimation": 0,
+          "filename": "MozillaMDN-WebSockets",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22602646,
+      "title": "Mi primer Socket Server",
+      "created": "2020-10-05T20:53:46Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864056,
+        "asset_type": "Video",
+        "title": "2-02-Mi_primer_Socket_Server.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-02-Mi-primer-Socket-Server.mp4",
+        "time_estimation": 471
+      },
+      "sort_order": 171,
+      "object_index": 9,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28314920,
+          "status": 1,
+          "is_external": true,
+          "title": "npm: socket.io",
+          "time_estimation": 0,
+          "filename": "npm-socket.io",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22603058,
+      "title": "FrontEnd - MiniChat",
+      "created": "2020-10-05T21:07:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187124,
+        "asset_type": "Video",
+        "title": "2-03-new-FrontEnd_-_MiniChat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-03-new-FrontEnd-MiniChat.mp4",
+        "time_estimation": 536
+      },
+      "sort_order": 170,
+      "object_index": 10,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28315190,
+          "status": 1,
+          "is_external": true,
+          "title": "CDN: Socket.io",
+          "time_estimation": 0,
+          "filename": "CDN-Socket.io",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22603676,
+      "title": "Enviar y recibir eventos",
+      "created": "2020-10-05T21:38:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864040,
+        "asset_type": "Video",
+        "title": "2-04-Enviar_y_recibir_eventos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-04-Enviar-y-recibir-eventos.mp4",
+        "time_estimation": 431
+      },
+      "sort_order": 169,
+      "object_index": 11,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28316000,
+          "status": 1,
+          "is_external": true,
+          "title": "https://socket.io",
+          "time_estimation": 0,
+          "filename": "https-socket.io",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22616266,
+      "title": "Emitir del cliente al servidor",
+      "created": "2020-10-06T15:26:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864070,
+        "asset_type": "Video",
+        "title": "2-05-Emitir_del_cliente_al_servidor.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-05-Emitir-del-cliente-al-servidor.mp4",
+        "time_estimation": 275
+      },
+      "sort_order": 168,
+      "object_index": 12,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22616302,
+      "title": "Estructura HTML de nuestro mini-chat",
+      "created": "2020-10-06T15:29:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863994,
+        "asset_type": "Video",
+        "title": "2-06-Estructura_HTML_de_nuestro_mini-chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-06-Estructura-HTML-de-nuestro-mini-chat.mp4",
+        "time_estimation": 358
+      },
+      "sort_order": 167,
+      "object_index": 13,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28334736,
+          "status": 1,
+          "is_external": true,
+          "title": "getbootstrap.com",
+          "time_estimation": 0,
+          "filename": "getbootstrap.com",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28334746,
+          "status": 1,
+          "is_external": true,
+          "title": "Alpha Bootstrap 5",
+          "time_estimation": 0,
+          "filename": "Alpha-Bootstrap-5",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22616964,
+      "title": "Enviar y recibir mensajes desde y hacia el servidor",
+      "created": "2020-10-06T16:13:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864036,
+        "asset_type": "Video",
+        "title": "2-07-Enviar_y_recibir_mensajes_desde_y_hacia_el_servidor.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-07-Enviar-y-recibir-mensajes-desde-y-hacia-el-servidor.mp4",
+        "time_estimation": 584
+      },
+      "sort_order": 166,
+      "object_index": 14,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22617818,
+      "title": "Backend basado en clases",
+      "created": "2020-10-06T19:17:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864084,
+        "asset_type": "Video",
+        "title": "2-08-Backend_basado_en_clases.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-08-Backend-basado-en-clases.mp4",
+        "time_estimation": 637
+      },
+      "sort_order": 165,
+      "object_index": 15,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619110,
+      "title": "Configurar sockets en la clase Server",
+      "created": "2020-10-06T20:50:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864062,
+        "asset_type": "Video",
+        "title": "2-09-Configurar_sockets_en_la_clase_Server.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-09-Configurar-sockets-en-la-clase-Server.mp4",
+        "time_estimation": 351
+      },
+      "sort_order": 164,
+      "object_index": 16,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619112,
+      "title": "Crear variables de entorno",
+      "created": "2020-10-06T20:50:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864072,
+        "asset_type": "Video",
+        "title": "2-10-Crear_variables_de_entorno.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-10-Crear-variables-de-entorno.mp4",
+        "time_estimation": 250
+      },
+      "sort_order": 163,
+      "object_index": 17,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619332,
+      "title": "Desplegar nuestro backend server en Heroku",
+      "created": "2020-10-06T21:01:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863990,
+        "asset_type": "Video",
+        "title": "2-11-Desplegar_nuestro_backend_server_en_Heroku.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-11-Desplegar-nuestro-backend-server-en-Heroku.mp4",
+        "time_estimation": 524
+      },
+      "sort_order": 162,
+      "object_index": 18,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28339786,
+          "status": 1,
+          "is_external": true,
+          "title": "HomeBrew - Unicamente Mac",
+          "time_estimation": 0,
+          "filename": "HomeBrew-Unicamente-Mac",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28339800,
+          "status": 1,
+          "is_external": true,
+          "title": "heroku.com",
+          "time_estimation": 0,
+          "filename": "heroku.com",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22619572,
+      "title": "Probar el socket server en producción",
+      "created": "2020-10-06T21:18:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864016,
+        "asset_type": "Video",
+        "title": "2-12-Probar_el_socket_server_en_produccion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-12-Probar-el-socket-server-en-produccion.mp4",
+        "time_estimation": 354
+      },
+      "sort_order": 161,
+      "object_index": 19,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23254454,
+      "title": "Habilitar CORS",
+      "created": "2020-11-11T17:06:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187122,
+        "asset_type": "Video",
+        "title": "2-13-Habilitar_CORS.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-13-Habilitar-CORS.mp4",
+        "time_estimation": 253
+      },
+      "sort_order": 160,
+      "object_index": 20,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619730,
+      "title": "Respaldo a Github",
+      "created": "2020-10-06T21:30:57Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864032,
+        "asset_type": "Video",
+        "title": "2-13-Respaldo_a_Github.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "2-13-Respaldo-a-Github.mp4",
+        "time_estimation": 249
+      },
+      "sort_order": 159,
+      "object_index": 21,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22619886,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-06T21:36:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29183720,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 29
+      },
+      "sort_order": 158,
+      "object_index": 22,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29183652,
+          "status": 1,
+          "is_external": false,
+          "title": "socket-server-react-3.0.1.zip",
+          "time_estimation": 0,
+          "filename": "socket-server-react-3.0.1.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5409229,
+      "sort_order": 157,
+      "title": "BandNames App - Backend Server",
+      "is_published": true,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 22637577,
+      "title": "Introducción a la sección",
+      "created": "2020-10-07T19:23:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182928,
+        "asset_type": "Video",
+        "title": "rostro_copy_3.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-3.mp4",
+        "time_estimation": 87
+      },
+      "sort_order": 156,
+      "object_index": 23,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22637579,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-07T19:23:55Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155502,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 17
+      },
+      "sort_order": 155,
+      "object_index": 24,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22658535,
+      "title": "Demostración del objetivo final de la sección",
+      "created": "2020-10-08T22:39:09Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 28864080,
+        "asset_type": "Video",
+        "title": "3-00-Demostracion_del_objetivo_final_de_la_seccion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-00-Demostracion-del-objetivo-final-de-la-seccion.mp4",
+        "time_estimation": 123
+      },
+      "sort_order": 154,
+      "object_index": 25,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22637585,
+      "title": "Inicio del proyecto - BandNames socket server",
+      "created": "2020-10-07T19:24:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187126,
+        "asset_type": "Video",
+        "title": "3-01-new-Inicio_del_proyecto_-_BandNames_socket_server.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-01-new-Inicio-del-proyecto-BandNames-socket-server.mp4",
+        "time_estimation": 211
+      },
+      "sort_order": 153,
+      "object_index": 26,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29183836,
+          "status": 1,
+          "is_external": false,
+          "title": "socket-server-react-3.0.1.zip",
+          "time_estimation": 0,
+          "filename": "socket-server-react-3.0.1.zip",
+          "asset_type": "File"
+        },
+        {
+          "_class": "asset",
+          "id": 29183910,
+          "status": 1,
+          "is_external": true,
+          "title": "Socket-server-react - v3.0.1",
+          "time_estimation": 0,
+          "filename": "Socket-server-react-v3.0.1",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22638695,
+      "title": "Modelos para manejar nuestras bandas",
+      "created": "2020-10-07T20:32:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864086,
+        "asset_type": "Video",
+        "title": "3-02-Modelos_para_manejar_nuestras_bandas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-02-Modelos-para-manejar-nuestras-bandas.mp4",
+        "time_estimation": 433
+      },
+      "sort_order": 152,
+      "object_index": 27,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22638917,
+      "title": "Eventos de Sockets",
+      "created": "2020-10-07T20:51:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864060,
+        "asset_type": "Video",
+        "title": "3-03-Eventos_de_Sockets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-03-Eventos-de-Sockets.mp4",
+        "time_estimation": 359
+      },
+      "sort_order": 151,
+      "object_index": 28,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22638921,
+      "title": "Crear aplicación de React y los primeros componentes",
+      "created": "2020-10-07T20:51:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29188018,
+        "asset_type": "Video",
+        "title": "3-04-Crear_aplicacion_de_React_y_los_primeros_componentes.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-04-Crear-aplicacion-de-React-y-los-primeros-componentes.mp4",
+        "time_estimation": 714
+      },
+      "sort_order": 150,
+      "object_index": 29,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22639181,
+      "title": "Configurar socket.io en React",
+      "created": "2020-10-07T21:12:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187120,
+        "asset_type": "Video",
+        "title": "3-05-new-Configurar_socket.io_en_React.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-05-new-Configurar-socket.io-en-React.mp4",
+        "time_estimation": 575
+      },
+      "sort_order": 149,
+      "object_index": 30,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28365317,
+          "status": 1,
+          "is_external": true,
+          "title": "Npm: socket.io-client",
+          "time_estimation": 0,
+          "filename": "Npm-socket.io-client",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22650945,
+      "title": "Mostrar las bandas actuales",
+      "created": "2020-10-08T14:18:18Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29188424,
+        "asset_type": "Video",
+        "title": "3-06-Mostrar_las_bandas_actuales.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-06-Mostrar-las-bandas-actuales.mp4",
+        "time_estimation": 400
+      },
+      "sort_order": 148,
+      "object_index": 31,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22651089,
+      "title": "Editar nombres en la tabla",
+      "created": "2020-10-08T14:33:57Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29188446,
+        "asset_type": "Video",
+        "title": "3-07-Editar_nombres_en_la_tabla.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-07-Editar-nombres-en-la-tabla.mp4",
+        "time_estimation": 424
+      },
+      "sort_order": 147,
+      "object_index": 32,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22652195,
+      "title": "Incrementar votos",
+      "created": "2020-10-08T15:29:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864082,
+        "asset_type": "Video",
+        "title": "3-08-Incrementar_votos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-08-Incrementar-votos.mp4",
+        "time_estimation": 407
+      },
+      "sort_order": 146,
+      "object_index": 33,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22652203,
+      "title": "Borrar banda",
+      "created": "2020-10-08T15:30:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863974,
+        "asset_type": "Video",
+        "title": "3-09-Borrar_banda.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-09-Borrar-banda.mp4",
+        "time_estimation": 274
+      },
+      "sort_order": 145,
+      "object_index": 34,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22652347,
+      "title": "Cambiar nombre de la banda",
+      "created": "2020-10-08T15:45:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863982,
+        "asset_type": "Video",
+        "title": "3-10-Cambiar_nombre_de_la_banda.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-10-Cambiar-nombre-de-la-banda.mp4",
+        "time_estimation": 272
+      },
+      "sort_order": 144,
+      "object_index": 35,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22652597,
+      "title": "Agregar una nueva banda",
+      "created": "2020-10-08T15:55:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863966,
+        "asset_type": "Video",
+        "title": "3-11-Agregar_una_nueva_banda.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "3-11-Agregar-una-nueva-banda.mp4",
+        "time_estimation": 523
+      },
+      "sort_order": 143,
+      "object_index": 36,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22653169,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-08T16:14:05Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29185412,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 19
+      },
+      "sort_order": 142,
+      "object_index": 37,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28381575,
+          "status": 1,
+          "is_external": false,
+          "title": "react-bandnames-server-0.0.3.zip",
+          "time_estimation": 0,
+          "filename": "react-bandnames-server-0.0.3.zip",
+          "asset_type": "File"
+        },
+        {
+          "_class": "asset",
+          "id": 28381579,
+          "status": 1,
+          "is_external": false,
+          "title": "react-bandnames-0.0.3.zip",
+          "time_estimation": 0,
+          "filename": "react-bandnames-0.0.3.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5413109,
+      "sort_order": 141,
+      "title": "useSocket, SocketProvider, SocketContext y optimizaciones",
+      "is_published": true,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 22653241,
+      "title": "Introducción a la sección",
+      "created": "2020-10-08T16:19:15Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182920,
+        "asset_type": "Video",
+        "title": "rostro_copy_4.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-4.mp4",
+        "time_estimation": 68
+      },
+      "sort_order": 140,
+      "object_index": 38,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22653243,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-08T16:19:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155568,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 8
+      },
+      "sort_order": 139,
+      "object_index": 39,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22653245,
+      "title": "Continuación de proyecto - BandNames",
+      "created": "2020-10-08T16:19:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187118,
+        "asset_type": "Video",
+        "title": "4-01-new-Continuacion_de_proyecto_-_BandNames.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-01-new-Continuacion-de-proyecto-BandNames.mp4",
+        "time_estimation": 265
+      },
+      "sort_order": 138,
+      "object_index": 40,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22653307,
+      "title": "useSocket - CustomHook",
+      "created": "2020-10-08T16:25:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29187116,
+        "asset_type": "Video",
+        "title": "4-02-new-useSocket_-_CustomHook.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-02-new-useSocket-CustomHook.mp4",
+        "time_estimation": 407
+      },
+      "sort_order": 137,
+      "object_index": 41,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22655719,
+      "title": "Problema del useSocket",
+      "created": "2020-10-08T18:48:43Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864010,
+        "asset_type": "Video",
+        "title": "4-03-Problema_del_useSocket.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-03-Problema-del-useSocket.mp4",
+        "time_estimation": 290
+      },
+      "sort_order": 136,
+      "object_index": 42,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22656089,
+      "title": "SocketContext y SocketProvider",
+      "created": "2020-10-08T19:06:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864020,
+        "asset_type": "Video",
+        "title": "4-04-SocketContext_y_SocketProvider.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-04-SocketContext-y-SocketProvider.mp4",
+        "time_estimation": 422
+      },
+      "sort_order": 135,
+      "object_index": 43,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22656331,
+      "title": "Uso del ContextAPI para estado de la conexión",
+      "created": "2020-10-08T19:34:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864042,
+        "asset_type": "Video",
+        "title": "4-05-Uso_del_ContextAPI_para_estado_de_la_conexion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-05-Uso-del-ContextAPI-para-estado-de-la-conexion.mp4",
+        "time_estimation": 267
+      },
+      "sort_order": 134,
+      "object_index": 44,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22656335,
+      "title": "Context para trabajar con sockets",
+      "created": "2020-10-08T19:34:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864034,
+        "asset_type": "Video",
+        "title": "4-06-Context_para_trabajar_con_sockets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-06-Context-para-trabajar-con-sockets.mp4",
+        "time_estimation": 332
+      },
+      "sort_order": 133,
+      "object_index": 45,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22656381,
+      "title": "Agregar Banda mediante el Context",
+      "created": "2020-10-08T19:42:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863980,
+        "asset_type": "Video",
+        "title": "4-07-Agregar_Banda_mediante_el_Context.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-07-Agregar-Banda-mediante-el-Context.mp4",
+        "time_estimation": 234
+      },
+      "sort_order": 132,
+      "object_index": 46,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22658285,
+      "title": "Gráfica en tiempo real",
+      "created": "2020-10-08T22:15:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864026,
+        "asset_type": "Video",
+        "title": "4-08-Grafica_en_tiempo_real.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-08-Grafica-en-tiempo-real.mp4",
+        "time_estimation": 369
+      },
+      "sort_order": 131,
+      "object_index": 47,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28388847,
+          "status": 1,
+          "is_external": true,
+          "title": "Chartjs.org",
+          "time_estimation": 0,
+          "filename": "Chartjs.org",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22658481,
+      "title": "Conectar gráfica con la data del servidor",
+      "created": "2020-10-08T22:28:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864068,
+        "asset_type": "Video",
+        "title": "4-09-Conectar_grafica_con_la_data_del_servidor.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "4-09-Conectar-grafica-con-la-data-del-servidor.mp4",
+        "time_estimation": 353
+      },
+      "sort_order": 130,
+      "object_index": 48,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22658639,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-08T22:49:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28389201,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 17
+      },
+      "sort_order": 129,
+      "object_index": 49,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28389203,
+          "status": 1,
+          "is_external": false,
+          "title": "react-bandnames-0.0.4.zip",
+          "time_estimation": 0,
+          "filename": "react-bandnames-0.0.4.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5434935,
+      "sort_order": 128,
+      "title": "TicketApp - Aplicación de colas",
+      "is_published": true,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 22745723,
+      "title": "Introducción a la sección",
+      "created": "2020-10-13T20:29:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182914,
+        "asset_type": "Video",
+        "title": "rostro_copy_5.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-5.mp4",
+        "time_estimation": 133
+      },
+      "sort_order": 127,
+      "object_index": 50,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22745725,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-13T20:29:18Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155648,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 11
+      },
+      "sort_order": 126,
+      "object_index": 51,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22745729,
+      "title": "Demostración del resultado final de la App",
+      "created": "2020-10-13T20:29:29Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 29162110,
+        "asset_type": "Video",
+        "title": "05-00-Demostracion_de_la_seccion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "05-00-Demostracion-de-la-seccion.mp4",
+        "time_estimation": 195
+      },
+      "sort_order": 125,
+      "object_index": 52,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22745731,
+      "title": "Inicio de proyecto",
+      "created": "2020-10-13T20:29:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864024,
+        "asset_type": "Video",
+        "title": "5-01-Inicio_de_proyecto.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-01-Inicio-de-proyecto.mp4",
+        "time_estimation": 381
+      },
+      "sort_order": 124,
+      "object_index": 53,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28498621,
+          "status": 1,
+          "is_external": true,
+          "title": "React-Router",
+          "time_estimation": 0,
+          "filename": "React-Router",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28498629,
+          "status": 1,
+          "is_external": true,
+          "title": "Ant Design: Icons",
+          "time_estimation": 0,
+          "filename": "Ant-Design-Icons",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28498631,
+          "status": 1,
+          "is_external": true,
+          "title": "Ant.design",
+          "time_estimation": 0,
+          "filename": "Ant.design",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22745941,
+      "title": "Crear componentes necesarios",
+      "created": "2020-10-13T20:46:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864000,
+        "asset_type": "Video",
+        "title": "5-02-Crear_componentes_necesarios.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-02-Crear-componentes-necesarios.mp4",
+        "time_estimation": 461
+      },
+      "sort_order": 123,
+      "object_index": 54,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22746107,
+      "title": "Router entre pantallas",
+      "created": "2020-10-13T20:58:52Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864030,
+        "asset_type": "Video",
+        "title": "5-03-Router_entre_pantallas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-03-Router-entre-pantallas.mp4",
+        "time_estimation": 417
+      },
+      "sort_order": 122,
+      "object_index": 55,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22746205,
+      "title": "Pantalla de Ingresar",
+      "created": "2020-10-13T21:09:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864064,
+        "asset_type": "Video",
+        "title": "5-04-Pantalla_de_Ingresar.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-04-Pantalla-de-Ingresar.mp4",
+        "time_estimation": 557
+      },
+      "sort_order": 121,
+      "object_index": 56,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22746433,
+      "title": "Pantalla de Escritorio",
+      "created": "2020-10-13T21:27:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864044,
+        "asset_type": "Video",
+        "title": "5-05-Pantalla_de_Escritorio.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-05-Pantalla-de-Escritorio.mp4",
+        "time_estimation": 517
+      },
+      "sort_order": 120,
+      "object_index": 57,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22746663,
+      "title": "Pantalla para crear un ticket",
+      "created": "2020-10-13T21:47:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864058,
+        "asset_type": "Video",
+        "title": "5-06-Pantalla_para_crear_un_ticket.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-06-Pantalla-para-crear-un-ticket.mp4",
+        "time_estimation": 333
+      },
+      "sort_order": 119,
+      "object_index": 58,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22746759,
+      "title": "Pantalla de Cola de tickets",
+      "created": "2020-10-13T21:59:01Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864018,
+        "asset_type": "Video",
+        "title": "5-07-Pantalla_de_Cola_de_tickets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-07-Pantalla-de-Cola-de-tickets.mp4",
+        "time_estimation": 579
+      },
+      "sort_order": 118,
+      "object_index": 59,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28499857,
+          "status": 1,
+          "is_external": true,
+          "title": "Data temporal de Cola de Tickets",
+          "time_estimation": 0,
+          "filename": "Data-temporal-de-Cola-de-Tickets",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22755779,
+      "title": "UI Context y customHook para ocultar el menú",
+      "created": "2020-10-14T13:39:05Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864006,
+        "asset_type": "Video",
+        "title": "5-08-UI_Context_y_customHook_para_ocultar_el_menu.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-08-UI-Context-y-customHook-para-ocultar-el-menu.mp4",
+        "time_estimation": 644
+      },
+      "sort_order": 117,
+      "object_index": 60,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22755921,
+      "title": "Mantener el Agente y Escritorio",
+      "created": "2020-10-14T13:55:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864028,
+        "asset_type": "Video",
+        "title": "5-09-Mantener_el_Agente_y_Escritorio.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "5-09-Mantener-el-Agente-y-Escritorio.mp4",
+        "time_estimation": 628
+      },
+      "sort_order": 116,
+      "object_index": 61,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22758641,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-14T16:40:43Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28518563,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 18
+      },
+      "sort_order": 115,
+      "object_index": 62,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28518517,
+          "status": 1,
+          "is_external": true,
+          "title": "Repositorio del proyecto",
+          "time_estimation": 0,
+          "filename": "Repositorio-del-proyecto",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28518565,
+          "status": 1,
+          "is_external": false,
+          "title": "react-ticket-front-1.0.0.zip",
+          "time_estimation": 0,
+          "filename": "react-ticket-front-1.0.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5474970,
+      "sort_order": 114,
+      "title": "TicketApp + SocketServer",
+      "is_published": true,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 22910170,
+      "title": "Introducción a la sección",
+      "created": "2020-10-22T19:15:18Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182912,
+        "asset_type": "Video",
+        "title": "rostro_copy_6.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-6.mp4",
+        "time_estimation": 147
+      },
+      "sort_order": 113,
+      "object_index": 63,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22910172,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-22T19:15:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155686,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 19
+      },
+      "sort_order": 112,
+      "object_index": 64,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22910174,
+      "title": "Continuación de proyecto - TicketApp",
+      "created": "2020-10-22T19:15:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29188100,
+        "asset_type": "Video",
+        "title": "6-01-new-Continuacion_de_proyecto_-_TicketApp.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-01-new-Continuacion-de-proyecto-TicketApp.mp4",
+        "time_estimation": 175
+      },
+      "sort_order": 111,
+      "object_index": 65,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29186114,
+          "status": 1,
+          "is_external": true,
+          "title": "socket-server-react - v3.0.1",
+          "time_estimation": 0,
+          "filename": "socket-server-react-v3.0.1",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22910316,
+      "title": "Clases para el manejo de los Tickets",
+      "created": "2020-10-22T19:28:18Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864012,
+        "asset_type": "Video",
+        "title": "6-02-Clases_para_el_manejo_de_los_Tickets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-02-Clases-para-el-manejo-de-los-Tickets.mp4",
+        "time_estimation": 665
+      },
+      "sort_order": 110,
+      "object_index": 66,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22910544,
+      "title": "Conectar la aplicación de React con nuestro socket server",
+      "created": "2020-10-22T19:47:09Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863978,
+        "asset_type": "Video",
+        "title": "6-03-Conectar_la_aplicacion_de_React_con_nuestro_socket_server.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-03-Conectar-la-aplicacion-de-React-con-nuestro-socket-server.mp4",
+        "time_estimation": 274
+      },
+      "sort_order": 109,
+      "object_index": 67,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29186458,
+          "status": 1,
+          "is_external": true,
+          "title": "Gist del hook y context",
+          "time_estimation": 0,
+          "filename": "Gist-del-hook-y-context",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 29186542,
+          "status": 1,
+          "is_external": false,
+          "title": "useSocket-SocetContext.zip",
+          "time_estimation": 0,
+          "filename": "useSocket-SocetContext.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22911644,
+      "title": "Obtener un nuevo ticket",
+      "created": "2020-10-22T20:47:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863962,
+        "asset_type": "Video",
+        "title": "6-04-Obtener_un_nuevo_ticket.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-04-Obtener-un-nuevo-ticket.mp4",
+        "time_estimation": 633
+      },
+      "sort_order": 108,
+      "object_index": 68,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22911944,
+      "title": "Asignar un ticket para trabajar",
+      "created": "2020-10-22T21:18:43Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863950,
+        "asset_type": "Video",
+        "title": "6-05-Asignar_un_ticket_para_trabajar.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-05-Asignar-un-ticket-para-trabajar.mp4",
+        "time_estimation": 457
+      },
+      "sort_order": 107,
+      "object_index": 69,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22912088,
+      "title": "Actualizar la cola de tickets en tiempo real",
+      "created": "2020-10-22T21:33:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863976,
+        "asset_type": "Video",
+        "title": "6-06-Actualizar_la_cola_de_tickets_en_tiempo_real.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-06-Actualizar-la-cola-de-tickets-en-tiempo-real.mp4",
+        "time_estimation": 504
+      },
+      "sort_order": 106,
+      "object_index": 70,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22912526,
+      "title": "Crear servicio REST para obtener los tickets actuales",
+      "created": "2020-10-22T22:27:11Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863956,
+        "asset_type": "Video",
+        "title": "6-07-Crear_servicio_REST_para_obtener_los_tickets_actuales.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-07-Crear-servicio-REST-para-obtener-los-tickets-actuales.mp4",
+        "time_estimation": 334
+      },
+      "sort_order": 105,
+      "object_index": 71,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22912624,
+      "title": "Consumir el servicio REST con los últimos tickets",
+      "created": "2020-10-22T22:34:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864022,
+        "asset_type": "Video",
+        "title": "6-08-Consumir_el_servicio_REST_con_los_ultimos_tickets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "6-08-Consumir-el-servicio-REST-con-los-ultimos-tickets.mp4",
+        "time_estimation": 300
+      },
+      "sort_order": 104,
+      "object_index": 72,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22912702,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-22T22:41:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28717034,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 7
+      },
+      "sort_order": 103,
+      "object_index": 73,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28717026,
+          "status": 1,
+          "is_external": true,
+          "title": "Backend server",
+          "time_estimation": 0,
+          "filename": "Backend-server",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28717038,
+          "status": 1,
+          "is_external": false,
+          "title": "react-ticket-front-2.0.0.zip",
+          "time_estimation": 0,
+          "filename": "react-ticket-front-2.0.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5494846,
+      "sort_order": 102,
+      "title": "Mapas en tiempo real",
+      "is_published": true,
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 22992774,
+      "title": "Introducción a la sección",
+      "created": "2020-10-27T17:19:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182910,
+        "asset_type": "Video",
+        "title": "rostro_copy_7.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-7.mp4",
+        "time_estimation": 160
+      },
+      "sort_order": 101,
+      "object_index": 74,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22992780,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-27T17:19:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155734,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 19
+      },
+      "sort_order": 100,
+      "object_index": 75,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22992784,
+      "title": "Demostración de la sección",
+      "created": "2020-10-27T17:19:51Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 28863998,
+        "asset_type": "Video",
+        "title": "7-00-Demostracion_de_la_seccion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-00-Demostracion-de-la-seccion.mp4",
+        "time_estimation": 128
+      },
+      "sort_order": 99,
+      "object_index": 76,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22992790,
+      "title": "Inicio de proyecto - MapasApp",
+      "created": "2020-10-27T17:19:59Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863988,
+        "asset_type": "Video",
+        "title": "7-01-Inicio_de_proyecto_-_MapasApp.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-01-Inicio-de-proyecto-MapasApp.mp4",
+        "time_estimation": 312
+      },
+      "sort_order": 98,
+      "object_index": 77,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28828208,
+          "status": 1,
+          "is_external": true,
+          "title": "mapbox.com/",
+          "time_estimation": 0,
+          "filename": "mapbox.com-",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22993144,
+      "title": "Mostrar el mapa",
+      "created": "2020-10-27T17:41:05Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864014,
+        "asset_type": "Video",
+        "title": "7-02-Mostrar_el_mapa.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-02-Mostrar-el-mapa.mp4",
+        "time_estimation": 633
+      },
+      "sort_order": 97,
+      "object_index": 78,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22993468,
+      "title": "Mantener la referencia de latitud, longitud y zoom del mapa",
+      "created": "2020-10-27T18:07:14Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864048,
+        "asset_type": "Video",
+        "title": "7-03-Mantener_la_referencia_de_latitud_longitud_y_zoom_del_mapa.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-03-Mantener-la-referencia-de-latitud-longitud-y-zoom-del-mapa.mp4",
+        "time_estimation": 613
+      },
+      "sort_order": 96,
+      "object_index": 79,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22993548,
+      "title": "useRef en lugar de useState",
+      "created": "2020-10-27T18:10:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864002,
+        "asset_type": "Video",
+        "title": "7-04-useRef_en_lugar_de_useState.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-04-useRef-en-lugar-de-useState.mp4",
+        "time_estimation": 353
+      },
+      "sort_order": 95,
+      "object_index": 80,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22993732,
+      "title": "CustomHook - useMapbox",
+      "created": "2020-10-27T18:23:01Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864076,
+        "asset_type": "Video",
+        "title": "7-05-CustomHook_-_useMapbox.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-05-CustomHook-useMapbox.mp4",
+        "time_estimation": 540
+      },
+      "sort_order": 94,
+      "object_index": 81,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22994022,
+      "title": "Agregar Marcadores",
+      "created": "2020-10-27T18:40:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864046,
+        "asset_type": "Video",
+        "title": "7-06-Agregar_Marcadores.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-06-Agregar-Marcadores.mp4",
+        "time_estimation": 542
+      },
+      "sort_order": 93,
+      "object_index": 82,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22994278,
+      "title": "Extraer callback para agregar marcadores",
+      "created": "2020-10-27T18:51:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863992,
+        "asset_type": "Video",
+        "title": "7-07-Extraer_callback_para_agregar_marcadores.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-07-Extraer-callback-para-agregar-marcadores.mp4",
+        "time_estimation": 380
+      },
+      "sort_order": 92,
+      "object_index": 83,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22994450,
+      "title": "Obtener coordenadas al mover un marcador",
+      "created": "2020-10-27T19:00:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864066,
+        "asset_type": "Video",
+        "title": "7-08-Obtener_coordenadas_al_mover_un_marcador.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-08-Obtener-coordenadas-al-mover-un-marcador.mp4",
+        "time_estimation": 359
+      },
+      "sort_order": 91,
+      "object_index": 84,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22994790,
+      "title": "RXJS - Subject - Emitir eventos",
+      "created": "2020-10-27T19:23:46Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864050,
+        "asset_type": "Video",
+        "title": "7-09-RXJS_-_Subject_-_Emitir_eventos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-09-RXJS-Subject-Emitir-eventos.mp4",
+        "time_estimation": 613
+      },
+      "sort_order": 90,
+      "object_index": 85,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22995220,
+      "title": "RXJS - Emitir movimientos de marcador",
+      "created": "2020-10-27T19:46:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863986,
+        "asset_type": "Video",
+        "title": "7-10-RXJS_-_Emitir_movimientos_de_marcador.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "7-10-RXJS-Emitir-movimientos-de-marcador.mp4",
+        "time_estimation": 418
+      },
+      "sort_order": 89,
+      "object_index": 86,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996384,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-27T20:52:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28832786,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 8
+      },
+      "sort_order": 88,
+      "object_index": 87,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28832776,
+          "status": 1,
+          "is_external": false,
+          "title": "react-socket-maps-0.0.1.zip",
+          "time_estimation": 0,
+          "filename": "react-socket-maps-0.0.1.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5495726,
+      "sort_order": 87,
+      "title": "MapasApp + Sockets",
+      "is_published": true,
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 22996414,
+      "title": "Introducción a la sección",
+      "created": "2020-10-27T20:54:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182916,
+        "asset_type": "Video",
+        "title": "rostro_copy_8.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-8.mp4",
+        "time_estimation": 72
+      },
+      "sort_order": 86,
+      "object_index": 88,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996416,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-10-27T20:54:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155878,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 16
+      },
+      "sort_order": 85,
+      "object_index": 89,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996418,
+      "title": "Continuación de proyecto - MapasApp",
+      "created": "2020-10-27T20:54:25Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863952,
+        "asset_type": "Video",
+        "title": "8-01-Continuacion_de_proyecto_-_MapasApp.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-01-Continuacion-de-proyecto-MapasApp.mp4",
+        "time_estimation": 313
+      },
+      "sort_order": 84,
+      "object_index": 90,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28832806,
+          "status": 1,
+          "is_external": true,
+          "title": "SocketServer hecho en el curso",
+          "time_estimation": 0,
+          "filename": "SocketServer-hecho-en-el-curso",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22996506,
+      "title": "Modelos necesarios en el backend",
+      "created": "2020-10-27T21:03:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864008,
+        "asset_type": "Video",
+        "title": "8-02-Modelos_necesarios_en_el_backend.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-02-Modelos-necesarios-en-el-backend.mp4",
+        "time_estimation": 456
+      },
+      "sort_order": 83,
+      "object_index": 91,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996568,
+      "title": "Conectar React con nuestro Socket Server",
+      "created": "2020-10-27T21:12:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863972,
+        "asset_type": "Video",
+        "title": "8-03-Conectar_React_con_nuestro_Socket_Server.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-03-Conectar-React-con-nuestro-Socket-Server.mp4",
+        "time_estimation": 295
+      },
+      "sort_order": 82,
+      "object_index": 92,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28833208,
+          "status": 1,
+          "is_external": true,
+          "title": "Gist: useSocket y SocketContext",
+          "time_estimation": 0,
+          "filename": "Gist-useSocket-y-SocketContext",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 22996644,
+      "title": "Socket: Nuevo Marcador y Marcadores Activos",
+      "created": "2020-10-27T21:21:06Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28864052,
+        "asset_type": "Video",
+        "title": "8-04-Socket_Nuevo_Marcador_y_Marcadores_Activos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-04-Socket-Nuevo-Marcador-y-Marcadores-Activos.mp4",
+        "time_estimation": 568
+      },
+      "sort_order": 81,
+      "object_index": 93,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996798,
+      "title": "Mostrar marcadores existentes en el backend",
+      "created": "2020-10-27T21:34:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863984,
+        "asset_type": "Video",
+        "title": "8-05-Mostrar_marcadores_existentes_en_el_backend.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-05-Mostrar-marcadores-existentes-en-el-backend.mp4",
+        "time_estimation": 531
+      },
+      "sort_order": 80,
+      "object_index": 94,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996856,
+      "title": "Mostrar nuevos marcadores en tiempo real",
+      "created": "2020-10-27T21:48:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863958,
+        "asset_type": "Video",
+        "title": "8-06-Mostrar_nuevos_marcadores_en_tiempo_real.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-06-Mostrar-nuevos-marcadores-en-tiempo-real.mp4",
+        "time_estimation": 156
+      },
+      "sort_order": 79,
+      "object_index": 95,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22996946,
+      "title": "Actualizar marcadores en tiempo real",
+      "created": "2020-10-27T21:58:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28863964,
+        "asset_type": "Video",
+        "title": "8-07-Actualizar_marcadores_en_tiempo_real.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "8-07-Actualizar-marcadores-en-tiempo-real.mp4",
+        "time_estimation": 518
+      },
+      "sort_order": 78,
+      "object_index": 96,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 22997146,
+      "title": "Código fuente de la sección",
+      "created": "2020-10-27T22:16:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 28834832,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 15
+      },
+      "sort_order": 77,
+      "object_index": 97,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28834732,
+          "status": 1,
+          "is_external": true,
+          "title": "react-socket-maps - Frontend",
+          "time_estimation": 0,
+          "filename": "react-socket-maps-Frontend",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28834780,
+          "status": 1,
+          "is_external": true,
+          "title": "React-socket-map - Backend",
+          "time_estimation": 0,
+          "filename": "React-socket-map-Backend",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5520374,
+      "sort_order": 76,
+      "title": "Chat - Introducción",
+      "is_published": true,
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 23097570,
+      "title": "Introducción a la sección",
+      "created": "2020-11-02T14:33:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182908,
+        "asset_type": "Video",
+        "title": "rostro_copy_9.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-9.mp4",
+        "time_estimation": 152
+      },
+      "sort_order": 75,
+      "object_index": 98,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23097572,
+      "title": "Demostración del objetivo de la sección",
+      "created": "2020-11-02T14:33:57Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 29162132,
+        "asset_type": "Video",
+        "title": "9-00-Demostracion_del_objetivo_de_la_seccion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "9-00-Demostracion-del-objetivo-de-la-seccion.mp4",
+        "time_estimation": 206
+      },
+      "sort_order": 74,
+      "object_index": 99,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23097580,
+      "title": "Explicación del proyecto y materiales descargables",
+      "created": "2020-11-02T14:34:55Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078458,
+        "asset_type": "Video",
+        "title": "9-01-Explicacion_del_proyecto_y_materiales_descargables.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "9-01-Explicacion-del-proyecto-y-materiales-descargables.mp4",
+        "time_estimation": 353
+      },
+      "sort_order": 73,
+      "object_index": 100,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28966944,
+          "status": 1,
+          "is_external": false,
+          "title": "templates.zip",
+          "time_estimation": 0,
+          "filename": "templates.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5520494,
+      "sort_order": 72,
+      "title": "Chat - Backend",
+      "is_published": true,
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 23098004,
+      "title": "Introducción a la sección",
+      "created": "2020-11-02T14:57:42Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182922,
+        "asset_type": "Video",
+        "title": "rostro_copy_10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-10.mp4",
+        "time_estimation": 110
+      },
+      "sort_order": 71,
+      "object_index": 101,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23098008,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-11-02T14:57:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29155950,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 19
+      },
+      "sort_order": 70,
+      "object_index": 102,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23098016,
+      "title": "Inicio de proyecto - ChatBackend",
+      "created": "2020-11-02T14:58:04Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078444,
+        "asset_type": "Video",
+        "title": "10-01-Inicio_de_proyecto_-_ChatBackend.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-01-Inicio-de-proyecto-ChatBackend.mp4",
+        "time_estimation": 315
+      },
+      "sort_order": 69,
+      "object_index": 103,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28967904,
+          "status": 1,
+          "is_external": true,
+          "title": "Github: socket-server-react",
+          "time_estimation": 0,
+          "filename": "Github-socket-server-react",
+          "asset_type": "ExternalLink"
+        },
+        {
+          "_class": "asset",
+          "id": 28967924,
+          "status": 1,
+          "is_external": false,
+          "title": "socket-server-react-2.0.1.zip",
+          "time_estimation": 0,
+          "filename": "socket-server-react-2.0.1.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23098256,
+      "title": "Preparando la base de datos - MongoAtlas",
+      "created": "2020-11-02T15:12:06Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078468,
+        "asset_type": "Video",
+        "title": "10-02-Preparando_la_base_de_datos_-_MongoAtlas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-02-Preparando-la-base-de-datos-MongoAtlas.mp4",
+        "time_estimation": 538
+      },
+      "sort_order": 68,
+      "object_index": 104,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28968360,
+          "status": 1,
+          "is_external": true,
+          "title": "Mongodb - Atlas",
+          "time_estimation": 0,
+          "filename": "Mongodb-Atlas",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23098812,
+      "title": "Conectar nuestro backend con MongoDB Atlas",
+      "created": "2020-11-02T15:36:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078400,
+        "asset_type": "Video",
+        "title": "10-03-Conectar_nuestro_backend_con_MongoDB_Atlas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-03-Conectar-nuestro-backend-con-MongoDB-Atlas.mp4",
+        "time_estimation": 268
+      },
+      "sort_order": 67,
+      "object_index": 105,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23098954,
+      "title": "Modelos necesarios - Usuario y Mensaje",
+      "created": "2020-11-02T15:47:38Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078470,
+        "asset_type": "Video",
+        "title": "10-04-Modelos_necesarios_-_Usuario_y_Mensaje.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-04-Modelos-necesarios-Usuario-y-Mensaje.mp4",
+        "time_estimation": 560
+      },
+      "sort_order": 66,
+      "object_index": 106,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23099158,
+      "title": "Definición de rutas de autenticación",
+      "created": "2020-11-02T16:00:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078434,
+        "asset_type": "Video",
+        "title": "10-05-Definicion_de_rutas_de_autenticacion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-05-Definicion-de-rutas-de-autenticacion.mp4",
+        "time_estimation": 581
+      },
+      "sort_order": 65,
+      "object_index": 107,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23099632,
+      "title": "Controladores de nuestros API Endpoints",
+      "created": "2020-11-02T16:21:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078428,
+        "asset_type": "Video",
+        "title": "10-06-Controladores_de_nuestros_API_Endpoints.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-06-Controladores-de-nuestros-API-Endpoints.mp4",
+        "time_estimation": 390
+      },
+      "sort_order": 64,
+      "object_index": 108,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23100156,
+      "title": "Express Validator",
+      "created": "2020-11-02T16:48:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078398,
+        "asset_type": "Video",
+        "title": "10-07-Express_Validator.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-07-Express-Validator.mp4",
+        "time_estimation": 554
+      },
+      "sort_order": 63,
+      "object_index": 109,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23100654,
+      "title": "Middleware personalizado - ValidarCampos",
+      "created": "2020-11-02T17:19:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078452,
+        "asset_type": "Video",
+        "title": "10-08-Middleware_personalizado_-_ValidarCampos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-08-Middleware-personalizado-ValidarCampos.mp4",
+        "time_estimation": 495
+      },
+      "sort_order": 62,
+      "object_index": 110,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23102320,
+      "title": "Crear usuario en base de datos",
+      "created": "2020-11-02T18:34:55Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078418,
+        "asset_type": "Video",
+        "title": "10-09-Crear_usuario_en_base_de_datos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-09-Crear-usuario-en-base-de-datos.mp4",
+        "time_estimation": 648
+      },
+      "sort_order": 61,
+      "object_index": 111,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23102764,
+      "title": "Encriptar la contraseña",
+      "created": "2020-11-02T18:58:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078466,
+        "asset_type": "Video",
+        "title": "10-10-Encriptar_la_contrasena.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-10-Encriptar-la-contrasena.mp4",
+        "time_estimation": 298
+      },
+      "sort_order": 60,
+      "object_index": 112,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23102918,
+      "title": "Generar JsonWebToken",
+      "created": "2020-11-02T19:09:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078412,
+        "asset_type": "Video",
+        "title": "10-11-Generar_JsonWebToken.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-11-Generar-JsonWebToken.mp4",
+        "time_estimation": 728
+      },
+      "sort_order": 59,
+      "object_index": 113,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 28974820,
+          "status": 1,
+          "is_external": true,
+          "title": "jwt.io/",
+          "time_estimation": 0,
+          "filename": "jwt.io-",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23103430,
+      "title": "Login de usuario",
+      "created": "2020-11-02T19:24:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078456,
+        "asset_type": "Video",
+        "title": "10-12-Login_de_usuario.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-12-Login-de-usuario.mp4",
+        "time_estimation": 455
+      },
+      "sort_order": 58,
+      "object_index": 114,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23103640,
+      "title": "Verificar el JWT",
+      "created": "2020-11-02T19:36:59Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162134,
+        "asset_type": "Video",
+        "title": "10-13-Verificar_el_JWT.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-13-Verificar-el-JWT.mp4",
+        "time_estimation": 584
+      },
+      "sort_order": 57,
+      "object_index": 115,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23104190,
+      "title": "Revalidar el JWT",
+      "created": "2020-11-02T20:00:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078424,
+        "asset_type": "Video",
+        "title": "10-14-Revalidar_el_JWT.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-14-Revalidar-el-JWT.mp4",
+        "time_estimation": 211
+      },
+      "sort_order": 56,
+      "object_index": 116,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23104280,
+      "title": "Bonus: Guardar Token en Postman",
+      "created": "2020-11-02T20:04:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078436,
+        "asset_type": "Video",
+        "title": "10-15-Bonus_Guardar_Token_en_Postman.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-15-Bonus-Guardar-Token-en-Postman.mp4",
+        "time_estimation": 419
+      },
+      "sort_order": 55,
+      "object_index": 117,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23104374,
+      "title": "Obtener todos los mensajes de chat",
+      "created": "2020-11-02T20:14:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078448,
+        "asset_type": "Video",
+        "title": "10-16-Obtener_todos_los_mensajes_de_chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-16-Obtener-todos-los-mensajes-de-chat.mp4",
+        "time_estimation": 675
+      },
+      "sort_order": 54,
+      "object_index": 118,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23104658,
+      "title": "Definición de los eventos de sockets necesarios",
+      "created": "2020-11-02T20:34:57Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078396,
+        "asset_type": "Video",
+        "title": "10-17-Definicion_de_los_eventos_de_sockets_necesarios.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "10-17-Definicion-de-los-eventos-de-sockets-necesarios.mp4",
+        "time_estimation": 226
+      },
+      "sort_order": 53,
+      "object_index": 119,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23104666,
+      "title": "Código fuente de la sección",
+      "created": "2020-11-02T20:35:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29005790,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 19
+      },
+      "sort_order": 52,
+      "object_index": 120,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29005756,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-backend-0.2.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-backend-0.2.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5526882,
+      "sort_order": 51,
+      "title": "Diseño y estructura en React - ChatApp",
+      "is_published": true,
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 23123734,
+      "title": "Introducción a la sección",
+      "created": "2020-11-03T22:33:25Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182924,
+        "asset_type": "Video",
+        "title": "rostro_copy_11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-11.mp4",
+        "time_estimation": 91
+      },
+      "sort_order": 50,
+      "object_index": 121,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23123740,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-11-03T22:33:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29156250,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 13
+      },
+      "sort_order": 49,
+      "object_index": 122,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23123750,
+      "title": "Inicio de proyecto - ChatApp - React",
+      "created": "2020-11-03T22:34:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078474,
+        "asset_type": "Video",
+        "title": "11-01-Inicio_de_proyecto_-_ChatApp_-_React.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-01-Inicio-de-proyecto-ChatApp-React.mp4",
+        "time_estimation": 395
+      },
+      "sort_order": 48,
+      "object_index": 123,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29005540,
+          "status": 1,
+          "is_external": false,
+          "title": "templates.zip",
+          "time_estimation": 0,
+          "filename": "templates.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23123978,
+      "title": "Páginas y rutas",
+      "created": "2020-11-03T22:51:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078472,
+        "asset_type": "Video",
+        "title": "11-02-Paginas_y_rutas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-02-Paginas-y-rutas.mp4",
+        "time_estimation": 477
+      },
+      "sort_order": 47,
+      "object_index": 124,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29005842,
+          "status": 1,
+          "is_external": true,
+          "title": "ReactRouter.com",
+          "time_estimation": 0,
+          "filename": "ReactRouter.com",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23124030,
+      "title": "Rutas secundarias",
+      "created": "2020-11-03T23:01:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078438,
+        "asset_type": "Video",
+        "title": "11-03-Rutas_secundarias.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-03-Rutas-secundarias.mp4",
+        "time_estimation": 310
+      },
+      "sort_order": 46,
+      "object_index": 125,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23124182,
+      "title": "Diseño de Login y Registro",
+      "created": "2020-11-03T23:18:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078464,
+        "asset_type": "Video",
+        "title": "11-04-Diseno_de_Login_y_Registro.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-04-Diseno-de-Login-y-Registro.mp4",
+        "time_estimation": 446
+      },
+      "sort_order": 45,
+      "object_index": 126,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23169276,
+      "title": "Diseño del Chat y sus componentes",
+      "created": "2020-11-06T14:57:36Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078454,
+        "asset_type": "Video",
+        "title": "11-05-Diseno_del_Chat_y_sus_componentes.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-05-Diseno-del-Chat-y-sus-componentes.mp4",
+        "time_estimation": 738
+      },
+      "sort_order": 44,
+      "object_index": 127,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23170270,
+      "title": "Diseño del Chat - Segunda Parte",
+      "created": "2020-11-06T15:49:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078430,
+        "asset_type": "Video",
+        "title": "11-06-Diseno_del_Chat_-_Segunda_Parte.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-06-Diseno-del-Chat-Segunda-Parte.mp4",
+        "time_estimation": 433
+      },
+      "sort_order": 43,
+      "object_index": 128,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171002,
+      "title": "Pantalla de selección de Chat",
+      "created": "2020-11-06T16:31:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078404,
+        "asset_type": "Video",
+        "title": "11-07-Pantalla_de_seleccion_de_Chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "11-07-Pantalla-de-seleccion-de-Chat.mp4",
+        "time_estimation": 153
+      },
+      "sort_order": 42,
+      "object_index": 129,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171008,
+      "title": "Código fuente de la sección",
+      "created": "2020-11-06T16:31:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29070046,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 9
+      },
+      "sort_order": 41,
+      "object_index": 130,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29070026,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-app-0.11.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-app-0.11.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5538128,
+      "sort_order": 40,
+      "title": "Autenticación de Chat",
+      "is_published": true,
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 23171094,
+      "title": "Introducción a la sección",
+      "created": "2020-11-06T16:36:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182932,
+        "asset_type": "Video",
+        "title": "rostro_copy_12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-12.mp4",
+        "time_estimation": 130
+      },
+      "sort_order": 39,
+      "object_index": 131,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171098,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-11-06T16:36:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29156314,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 18
+      },
+      "sort_order": 38,
+      "object_index": 132,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171114,
+      "title": "Continuación de proyecto - Backend + Frontend",
+      "created": "2020-11-06T16:36:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078440,
+        "asset_type": "Video",
+        "title": "12-01-Continuacion_de_proyecto_-_Backend__Frontend.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-01-Continuacion-de-proyecto-Backend-Frontend.mp4",
+        "time_estimation": 241
+      },
+      "sort_order": 37,
+      "object_index": 133,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171350,
+      "title": "AuthProvider - AuthContext",
+      "created": "2020-11-06T16:54:33Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078416,
+        "asset_type": "Video",
+        "title": "12-02-AuthProvider_-_AuthContext.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-02-AuthProvider-AuthContext.mp4",
+        "time_estimation": 489
+      },
+      "sort_order": 36,
+      "object_index": 134,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23171422,
+      "title": "Pantalla de Login",
+      "created": "2020-11-06T16:58:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078446,
+        "asset_type": "Video",
+        "title": "12-03-Pantalla_de_Login.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-03-Pantalla-de-Login.mp4",
+        "time_estimation": 596
+      },
+      "sort_order": 35,
+      "object_index": 135,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29070642,
+          "status": 1,
+          "is_external": true,
+          "title": "font-awesome-CDN",
+          "time_estimation": 0,
+          "filename": "font-awesome-CDN",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23172954,
+      "title": "Bloquear botón y funcionalidad de recordar usuario",
+      "created": "2020-11-06T18:40:15Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078426,
+        "asset_type": "Video",
+        "title": "12-04-Bloquear_boton_y_funcionalidad_de_recordar_usuario.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-04-Bloquear-boton-y-funcionalidad-de-recordar-usuario.mp4",
+        "time_estimation": 310
+      },
+      "sort_order": 34,
+      "object_index": 136,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23234348,
+      "title": "Login - Petición Http",
+      "created": "2020-11-10T16:26:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078406,
+        "asset_type": "Video",
+        "title": "12-05-Login_-_Peticion_Http.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-05-Login-Peticion-Http.mp4",
+        "time_estimation": 663
+      },
+      "sort_order": 33,
+      "object_index": 137,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23173452,
+      "title": "Almacenar token y mensajes de error",
+      "created": "2020-11-06T19:02:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078402,
+        "asset_type": "Video",
+        "title": "12-06-Almacenar_token_y_mensajes_de_error.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-06-Almacenar-token-y-mensajes-de-error.mp4",
+        "time_estimation": 550
+      },
+      "sort_order": 32,
+      "object_index": 138,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23173782,
+      "title": "Deshabilitar el botón si el formulario no está completo",
+      "created": "2020-11-06T19:18:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078450,
+        "asset_type": "Video",
+        "title": "12-07-Deshabilitar_el_boton_si_el_formulario_no_esta_completo.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-07-Deshabilitar-el-boton-si-el-formulario-no-esta-completo.mp4",
+        "time_estimation": 171
+      },
+      "sort_order": 31,
+      "object_index": 139,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23173802,
+      "title": "Tarea: Pantalla de registro",
+      "created": "2020-11-06T19:19:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078408,
+        "asset_type": "Video",
+        "title": "12-08-Tarea_Pantalla_de_registro.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-08-Tarea-Pantalla-de-registro.mp4",
+        "time_estimation": 715
+      },
+      "sort_order": 30,
+      "object_index": 140,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23174042,
+      "title": "Verificar estado de la autenticación",
+      "created": "2020-11-06T19:39:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078420,
+        "asset_type": "Video",
+        "title": "12-09-Verificar_estado_de_la_autenticacion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-09-Verificar-estado-de-la-autenticacion.mp4",
+        "time_estimation": 702
+      },
+      "sort_order": 29,
+      "object_index": 141,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23174234,
+      "title": "Rutas privadas y públicas",
+      "created": "2020-11-06T19:53:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078462,
+        "asset_type": "Video",
+        "title": "12-10-Rutas_privadas_y_publicas.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-10-Rutas-privadas-y-publicas.mp4",
+        "time_estimation": 473
+      },
+      "sort_order": 28,
+      "object_index": 142,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23174492,
+      "title": "Cerrar sesión",
+      "created": "2020-11-06T20:11:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078394,
+        "asset_type": "Video",
+        "title": "12-11-Cerrar_sesion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-11-Cerrar-sesion.mp4",
+        "time_estimation": 283
+      },
+      "sort_order": 27,
+      "object_index": 143,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23174610,
+      "title": "Nota: Cambiar avatar y resumen",
+      "created": "2020-11-06T20:25:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078442,
+        "asset_type": "Video",
+        "title": "12-12-Nota_Cambiar_avatar_y_resumen.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-12-Nota-Cambiar-avatar-y-resumen.mp4",
+        "time_estimation": 181
+      },
+      "sort_order": 26,
+      "object_index": 144,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23174638,
+      "title": "Inicio de autenticación de sockets",
+      "created": "2020-11-06T20:31:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078410,
+        "asset_type": "Video",
+        "title": "12-13-Inicio_de_autenticacion_de_sockets.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-13-Inicio-de-autenticacion-de-sockets.mp4",
+        "time_estimation": 322
+      },
+      "sort_order": 25,
+      "object_index": 145,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29074266,
+          "status": 1,
+          "is_external": true,
+          "title": "SocketContext y SocketProvider",
+          "time_estimation": 0,
+          "filename": "SocketContext-y-SocketProvider",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23175084,
+      "title": "Conectar y desconectar sockets manualmente",
+      "created": "2020-11-06T21:25:16Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078422,
+        "asset_type": "Video",
+        "title": "12-14-Conectar_y_desconectar_sockets_manualmente.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-14-Conectar-y-desconectar-sockets-manualmente.mp4",
+        "time_estimation": 622
+      },
+      "sort_order": 24,
+      "object_index": 146,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23175334,
+      "title": "Identificar persona conectada - Backend",
+      "created": "2020-11-06T22:00:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078414,
+        "asset_type": "Video",
+        "title": "12-15-Identificar_persona_conectada_-_Backend.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-15-Identificar-persona-conectada-Backend.mp4",
+        "time_estimation": 513
+      },
+      "sort_order": 23,
+      "object_index": 147,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23175454,
+      "title": "Actualizar base de datos en base a la conexión del usuario",
+      "created": "2020-11-06T22:13:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29078460,
+        "asset_type": "Video",
+        "title": "12-16-Actualizar_base_de_datos_en_base_a_la_conexion_del_usuario.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "12-16-Actualizar-base-de-datos-en-base-a-la-conexion-del-usuario.mp4",
+        "time_estimation": 552
+      },
+      "sort_order": 22,
+      "object_index": 148,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23175458,
+      "title": "Código fuente de la sección",
+      "created": "2020-11-06T22:14:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29075536,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 6
+      },
+      "sort_order": 21,
+      "object_index": 149,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29075538,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-backend-0.12.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-backend-0.12.0.zip",
+          "asset_type": "File"
+        },
+        {
+          "_class": "asset",
+          "id": 29075540,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-app-0.12.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-app-0.12.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5542820,
+      "sort_order": 20,
+      "title": "Mensajería uno a uno",
+      "is_published": true,
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 23190426,
+      "title": "Introducción a la sección",
+      "created": "2020-11-07T21:38:52Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182926,
+        "asset_type": "Video",
+        "title": "rostro_copy_13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-13.mp4",
+        "time_estimation": 125
+      },
+      "sort_order": 19,
+      "object_index": 150,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190430,
+      "title": "Temas puntuales de la sección",
+      "created": "2020-11-07T21:38:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29156376,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 11
+      },
+      "sort_order": 18,
+      "object_index": 151,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190432,
+      "title": "Continuación de proyecto - ChatApp",
+      "created": "2020-11-07T21:39:04Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29163984,
+        "asset_type": "Video",
+        "title": "13-01-Continuacion_de_proyecto_-_ChatApp.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-01-Continuacion-de-proyecto-ChatApp.mp4",
+        "time_estimation": 167
+      },
+      "sort_order": 17,
+      "object_index": 152,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190502,
+      "title": "Chat Context, Provider y Reducer",
+      "created": "2020-11-07T21:45:15Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162126,
+        "asset_type": "Video",
+        "title": "13-02-Chat_Context_Provider_y_Reducer.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-02-Chat-Context-Provider-y-Reducer.mp4",
+        "time_estimation": 554
+      },
+      "sort_order": 16,
+      "object_index": 153,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190662,
+      "title": "Obtener todos los usuarios del chat",
+      "created": "2020-11-07T21:58:52Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162124,
+        "asset_type": "Video",
+        "title": "13-03-Obtener_todos_los_usuarios_del_chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-03-Obtener-todos-los-usuarios-del-chat.mp4",
+        "time_estimation": 398
+      },
+      "sort_order": 15,
+      "object_index": 154,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190796,
+      "title": "Acción de cargar usuarios",
+      "created": "2020-11-07T22:11:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162136,
+        "asset_type": "Video",
+        "title": "13-04-Accion_de_cargar_usuarios.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-04-Accion-de-cargar-usuarios.mp4",
+        "time_estimation": 429
+      },
+      "sort_order": 14,
+      "object_index": 155,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23190982,
+      "title": "Mostrar listado de los usuarios",
+      "created": "2020-11-07T22:24:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162122,
+        "asset_type": "Video",
+        "title": "13-05-Mostrar_listado_de_los_usuarios.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-05-Mostrar-listado-de-los-usuarios.mp4",
+        "time_estimation": 688
+      },
+      "sort_order": 13,
+      "object_index": 156,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191134,
+      "title": "Activar una sala de chat",
+      "created": "2020-11-07T22:42:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162120,
+        "asset_type": "Video",
+        "title": "13-06-Activar_una_sala_de_chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-06-Activar-una-sala-de-chat.mp4",
+        "time_estimation": 578
+      },
+      "sort_order": 12,
+      "object_index": 157,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191320,
+      "title": "Enviar un mensaje - Parte 1",
+      "created": "2020-11-07T23:03:42Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162116,
+        "asset_type": "Video",
+        "title": "13-07-Enviar_un_mensaje_-_Parte_1.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-07-Enviar-un-mensaje-Parte-1.mp4",
+        "time_estimation": 344
+      },
+      "sort_order": 11,
+      "object_index": 158,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191324,
+      "title": "Enviar un mensaje - Parte 2",
+      "created": "2020-11-07T23:03:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162130,
+        "asset_type": "Video",
+        "title": "13-08-Enviar_un_mensaje_-_Parte_2.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-08-Enviar-un-mensaje-Parte-2.mp4",
+        "time_estimation": 549
+      },
+      "sort_order": 10,
+      "object_index": 159,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191538,
+      "title": "Grabar chat en base de datos",
+      "created": "2020-11-07T23:26:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162112,
+        "asset_type": "Video",
+        "title": "13-09-Grabar_chat_en_base_de_datos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-09-Grabar-chat-en-base-de-datos.mp4",
+        "time_estimation": 312
+      },
+      "sort_order": 9,
+      "object_index": 160,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191540,
+      "title": "Escuchar mensajes personales",
+      "created": "2020-11-07T23:26:08Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162114,
+        "asset_type": "Video",
+        "title": "13-10-Escuchar_mensajes_personales.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-10-Escuchar-mensajes-personales.mp4",
+        "time_estimation": 415
+      },
+      "sort_order": 8,
+      "object_index": 161,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191818,
+      "title": "Mostrar los mensajes enviados y recibidos",
+      "created": "2020-11-08T00:00:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162108,
+        "asset_type": "Video",
+        "title": "13-11-Mostrar_los_mensajes_enviados_y_recibidos.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-11-Mostrar-los-mensajes-enviados-y-recibidos.mp4",
+        "time_estimation": 627
+      },
+      "sort_order": 7,
+      "object_index": 162,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23191894,
+      "title": "Fecha y hora de envío del mensaje",
+      "created": "2020-11-08T00:20:09Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162106,
+        "asset_type": "Video",
+        "title": "13-12-Fecha_y_hora_de_envio_del_mensaje.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-12-Fecha-y-hora-de-envio-del-mensaje.mp4",
+        "time_estimation": 387
+      },
+      "sort_order": 6,
+      "object_index": 163,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29097718,
+          "status": 1,
+          "is_external": true,
+          "title": "momentjs.com/",
+          "time_estimation": 0,
+          "filename": "momentjs.com-",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23191980,
+      "title": "Cargar el historial del Chat",
+      "created": "2020-11-08T00:29:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162118,
+        "asset_type": "Video",
+        "title": "13-13-Cargar_el_historial_del_Chat.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-13-Cargar-el-historial-del-Chat.mp4",
+        "time_estimation": 449
+      },
+      "sort_order": 5,
+      "object_index": 164,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23231934,
+      "title": "Scroll cuando llegan mensajes",
+      "created": "2020-11-10T14:02:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162104,
+        "asset_type": "Video",
+        "title": "13-14-Scroll_cuando_llegan_mensajes.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-14-Scroll-cuando-llegan-mensajes.mp4",
+        "time_estimation": 486
+      },
+      "sort_order": 4,
+      "object_index": 165,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29154432,
+          "status": 1,
+          "is_external": true,
+          "title": "npm: React-scroll",
+          "time_estimation": 0,
+          "filename": "npm-React-scroll",
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 23232604,
+      "title": "Borrar el ChatState cuando cerramos sesión",
+      "created": "2020-11-10T14:44:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29162102,
+        "asset_type": "Video",
+        "title": "13-15-Borrar_el_ChatState_cuando_cerramos_sesion.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "13-15-Borrar-el-ChatState-cuando-cerramos-sesion.mp4",
+        "time_estimation": 382
+      },
+      "sort_order": 3,
+      "object_index": 166,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 23232222,
+      "title": "Código fuente de la sección",
+      "created": "2020-11-10T14:21:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29154842,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 16
+      },
+      "sort_order": 2,
+      "object_index": 167,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 29154774,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-app-1.13.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-app-1.13.0.zip",
+          "asset_type": "File"
+        },
+        {
+          "_class": "asset",
+          "id": 29154790,
+          "status": 1,
+          "is_external": false,
+          "title": "React-socket-chat-backend-1.13.0.zip",
+          "time_estimation": 0,
+          "filename": "React-socket-chat-backend-1.13.0.zip",
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 5553896,
+      "sort_order": 1,
+      "title": "Despedida del curso",
+      "is_published": true,
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 23233678,
+      "title": "Despedida del curso",
+      "created": "2020-11-10T15:35:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 29182930,
+        "asset_type": "Video",
+        "title": "rostro_copy_14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "rostro-copy-14.mp4",
+        "time_estimation": 129
+      },
+      "sort_order": 0,
+      "object_index": 168,
+      "supplementary_assets": []
+    }
+  ]
+}
