@@ -2,8 +2,8 @@ import React from 'react'
 import { Disclosure } from '@headlessui/react'
 import { ChevronUpIcon } from '@heroicons/react/solid'
 import { PlayIcon } from '@heroicons/react/solid'
-import { Lesson, Lecture } from '../../types/types'
-import { useCountLectures } from '../../hooks/useCountLectures'
+import { Lesson, Lecture } from '../types/types'
+import { useCountLectures } from '../hooks/useCountLectures'
 
 export const LessonList = ({ id, title, lecture }: Lesson): JSX.Element => {
   const { totalTime, completedLectures, totalLectures } =
@@ -14,9 +14,9 @@ export const LessonList = ({ id, title, lecture }: Lesson): JSX.Element => {
       <Disclosure>
         {({ open }): JSX.Element => (
           <>
-            <div className="px-4 py-2 bg-gray-100 hover:bg-gray-200 focus:outline-none focus-visible:ring focus-visible:ring-gray-500 focus-visible:ring-opacity-75">
-              <Disclosure.Button className="w-full text-sm font-medium text-left text-gray-900 ">
-                <div className="flex justify-between w-full">
+            <div className="bg-gray-100 px-4 py-2 hover:bg-gray-200 focus:outline-none focus-visible:ring focus-visible:ring-gray-500 focus-visible:ring-opacity-75">
+              <Disclosure.Button className="w-full text-left text-sm font-medium text-gray-900 ">
+                <div className="flex w-full justify-between">
                   {title}
                   <ChevronUpIcon
                     className={`${
@@ -46,8 +46,8 @@ export const LessonList = ({ id, title, lecture }: Lesson): JSX.Element => {
                         {lect.title}
                       </span>
 
-                      <div className="flex items-center gap-1 mt-1 text-xs font-thin">
-                        <PlayIcon className="w-4 h-4" />
+                      <div className="mt-1 flex items-center gap-1 text-xs font-thin">
+                        <PlayIcon className="h-4 w-4" />
                         <span className="text-gray-900">
                           {Math.round(lect.duration / 60)}min
                         </span>

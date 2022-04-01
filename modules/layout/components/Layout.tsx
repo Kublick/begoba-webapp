@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
 import { close } from '../../../images/svg'
-import { useCourses } from '../../hooks/useCourses'
-import { Lesson } from '../../types/types'
+import { useCourses } from '../hooks/useCourses'
+import { Lesson } from '../types/types'
 import { LessonList } from './LessonList'
 
 export const Layout = () => {
@@ -31,7 +31,7 @@ export const Layout = () => {
             <span className="mr-2 text-xs">{close}</span>
           </div>
           <div className="mx-2">
-            {Object.values(data).map((item: any) => (
+            {data.map((item: Lesson) => (
               <LessonList
                 key={item.id}
                 id={item.id}

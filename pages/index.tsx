@@ -4,7 +4,8 @@ import { Layout } from '../modules/layout/components/Layout'
 export default function Home() {
   return (
     <>
-      <Layout />
+      <h1>Hello AWS</h1>
+      {/* <Layout /> */}
     </>
   )
 }

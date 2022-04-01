@@ -7,15 +7,16 @@ type LectureResult = {
 }
 
 export const useCountLectures = (lecture: Lecture[]): LectureResult => {
-  const getTotalTime = (lecture: Lecture[]) => {
-    return lecture.reduce((acc, curr) => {
+  const getTotalTime = (lecture: Lecture[]): number => {
+    return lecture.reduce((acc, curr): number => {
       return acc + curr.duration
     }, 0)
   }
+
   const totalTime = Math.round(getTotalTime(lecture) / 60)
 
-  const getCompletedLectures = (lecture: Lecture[]) => {
-    return lecture.reduce((acc, curr) => {
+  const getCompletedLectures = (lecture: Lecture[]): number => {
+    return lecture.reduce((acc, curr): number => {
       return acc + (curr.completed ? 1 : 0)
     }, 0)
   }
